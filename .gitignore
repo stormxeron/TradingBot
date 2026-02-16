@@ -1,6 +1,28 @@
-echo "trade_fills.txt" >> .gitignore
-echo "ETH/trade_fills.txt" >> .gitignore
-echo ".venv/" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "config.py" >> .gitignore
-echo "ETH/config.py" >> .gitignore
+config.py
+__pycache__/
+*.pyc
+*.log
+*.json
+trade_fills.txt
+.venv/
+
+ETH/config_eth.py
+ETH/__pycache__/
+ETH/*.pyc
+ETH/*.log
+ETH/*.json
+ETH/trade_fills.txt
+
+venv/
+.venv/
+**/__pycache__/
+*.pyc
+*.log*
+*.json
+.DS_Store
+config.py
+ETH/config_eth.py
+trade_fills.txt
+ETH/trade_fills.txt
+profit_log.txt
+trade_history.csv
