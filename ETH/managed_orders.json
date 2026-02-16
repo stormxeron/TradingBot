@@ -1,0 +1,82 @@
+{
+  "OACMJ4-QZDHB-VEBPBR": {
+    "side": "buy",
+    "price": "2571.72960000",
+    "volume": "0.01561123"
+  },
+  "OTZUIN-Z7U2C-K7J6WI": {
+    "side": "sell",
+    "price": "2786.04040000",
+    "volume": "0.06688917"
+  },
+  "OGH2QS-FM27C-ZMVCVI": {
+    "side": "buy",
+    "price": "2464.57420000",
+    "volume": "0.01561123"
+  },
+  "OV5PIR-W226I-G67YBJ": {
+    "side": "sell",
+    "price": "2893.19580000",
+    "volume": "0.06688917"
+  },
+  "OQXFPZ-52J7P-25OZA2": {
+    "side": "buy",
+    "price": "2357.41880000",
+    "volume": "0.01561123"
+  },
+  "OXM35Q-BCW4E-SWBIK7": {
+    "side": "sell",
+    "price": "3000.35120000",
+    "volume": "0.06688917"
+  },
+  "OOU3WQ-5PJC3-24O5XO": {
+    "side": "buy",
+    "price": "2250.26340000",
+    "volume": "0.01561123"
+  },
+  "OFG34H-V2NGN-OPNGIM": {
+    "side": "sell",
+    "price": "3107.50660000",
+    "volume": "0.06688917"
+  },
+  "OM4TBU-EDPSK-HVF6LT": {
+    "side": "buy",
+    "price": "2143.10800000",
+    "volume": "0.01561123"
+  },
+  "OQATII-MUMKG-42UIDN": {
+    "side": "sell",
+    "price": "3214.66200000",
+    "volume": "0.06688917"
+  },
+  "OAHTG6-MW7OC-URBQP5": {
+    "side": "buy",
+    "price": "2035.95260000",
+    "volume": "0.01561123"
+  },
+  "OCXX2A-MKOG7-S4DNMI": {
+    "side": "sell",
+    "price": "3321.81740000",
+    "volume": "0.06688917"
+  },
+  "OO2QSW-LZ4JP-QAKORY": {
+    "side": "buy",
+    "price": "1928.79720000",
+    "volume": "0.01561123"
+  },
+  "O5VD4Q-LV3NB-XUKNBJ": {
+    "side": "sell",
+    "price": "3428.97280000",
+    "volume": "0.06688917"
+  },
+  "OMJPEN-CA2QR-NNKK2U": {
+    "side": "buy",
+    "price": "1821.64180000",
+    "volume": "0.01561123"
+  },
+  "OLIE55-QAV7M-2MPZ7U": {
+    "side": "sell",
+    "price": "3536.12820000",
+    "volume": "0.06688917"
+  }
+}
